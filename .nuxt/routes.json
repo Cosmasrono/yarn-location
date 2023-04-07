@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Category",
+    "path": "/Category",
+    "component": "/home/cossi/Desktop/my location/pages/Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_2705db43"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "/home/cossi/Desktop/my location/pages/Login.vue",
+    "chunkName": "pages/Login",
+    "_name": "_160a71f4"
+  },
+  {
+    "name": "Mailing",
+    "path": "/Mailing",
+    "component": "/home/cossi/Desktop/my location/pages/Mailing.vue",
+    "chunkName": "pages/Mailing",
+    "_name": "_8bf358d4"
+  },
+  {
+    "name": "Main",
+    "path": "/Main",
+    "component": "/home/cossi/Desktop/my location/pages/Main.vue",
+    "chunkName": "pages/Main",
+    "_name": "_5607acfe"
+  },
+  {
+    "name": "Maps",
+    "path": "/Maps",
+    "component": "/home/cossi/Desktop/my location/pages/Maps.vue",
+    "chunkName": "pages/Maps",
+    "_name": "_62400edc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/cossi/Desktop/my location/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_561ea206"
+  }
+]
